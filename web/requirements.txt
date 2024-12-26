@@ -2,5 +2,5 @@ flask
 flask_sqlalchemy
 datetime 
 os
-xml.etree.ElementTree as ET
+xml.etree.ElementTree 
 fpdf
