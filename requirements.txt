@@ -1,0 +1,6 @@
+flask 
+flask_sqlalchemy
+datetime 
+os
+xml.etree.ElementTree
+fpdf
